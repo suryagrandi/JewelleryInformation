@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+	<Customer>
+		<CustomerId>1</CustomerId>
+		<CustomerName>surya</CustomerName>
+		<CustomerType>General</CustomerType>
+		<Password>surya@123</Password>
+	</Customer>
+	<Customer>
+		<CustomerId>2</CustomerId>
+		<CustomerName>raju</CustomerName>
+		<CustomerType>Privileged</CustomerType>
+		<Password>surya@456</Password>
+	</Customer>
+</Customers>
